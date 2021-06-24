@@ -1,0 +1,51 @@
+{
+  "name": "octo token list",
+  "timestamp": "2020-06-12T00:00:00+00:00",
+  "version": {
+    "major": 0,
+    "minor": 0,
+    "patch": 1
+  },
+  "tokens": [
+    {
+      "name": "Wrapped Ether",
+      "address": "0xb767287a7143759f294cfb7b1adbca1140f3de71",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 43113,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xc778417E063141139Fce010982780140Aa0cD5Ab/logo.png"
+    },
+    {
+      "name": "BTC",
+      "address": "0x6F3Ca65b65CbDABFD99119c532dCbD7A64b949C4",
+      "symbol": "BTC",
+      "decimals": 18,
+      "chainId": 43113,
+      "logoURI": "https://static.alchemyapi.io/images/assets/3717.png"
+    },
+    {
+      "name": "EUR",
+      "address": "0x7d3AE88a212251d5C3A33aE34F922C1F4f2EeA58",
+      "symbol": "EUR",
+      "decimals": 2,
+      "chainId": 43113,
+      "logoURI": "https://assets.coingecko.com/coins/images/13637/thumb/sEUR.png"
+    },
+    {
+      "name": "CHF",
+      "address": "0x14905b05a8A927E4615CE15524094D4037236d27",
+      "symbol": "CHF",
+      "decimals": 2,
+      "chainId": 43113,
+      "logoURI": "https://assets.coingecko.com/coins/images/8465/small/WhuiuJBc_400x400.jpg"
+    },
+    {
+      "name": "OCTO",
+      "address": "0x64cFB63fb4b5701E85d36Df481C19B79ACc0a369",
+      "symbol": "OCTO",
+      "decimals": 0,
+      "chainId": 43113,
+      "logoURI": "https://raw.githubusercontent.com/octopayment/octo/main/assets/octopus-purple-coin400x400.png"
+    }
+  ]
+}
